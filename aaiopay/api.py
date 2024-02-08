@@ -20,7 +20,7 @@ class AaioPay(RequestsClient):
     :param shop_id: Your Shop ID
     :param secret_key: Your Secretkey №1
     """
-    API_HOST = "https://aaio.io"
+    API_HOST = "https://aaio.so"
 
     def __init__(
             self,
